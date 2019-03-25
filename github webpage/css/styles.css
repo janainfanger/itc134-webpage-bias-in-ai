@@ -16,13 +16,6 @@
         }
         
         
-        
-        div#wrapper{
-            width:940px;
-            margin: 20px auto 20px auto;
-            background-color:rgba(200,200,200,.9);
-            padding:20px}
-        
         header{
             background: lightgray;
             height:50px;
@@ -31,7 +24,6 @@
 
 
         
-  
         nav {
             height:60px;
             background: antiquewhite;
@@ -59,23 +51,7 @@
             display:block;
         }    
         
-        #banner{
-            background:lightblue;
-            height:150px;
-            font-family: 'Playfair Display', serif;
-        }
-        
-        main{
-            background-color: antiquewhite;
-            height:400px;
-            width:580px;
-            margin: 0 auto;
-            padding:20px;
-            
-        }
-        
        
-        
         footer{
          
             height:50px;
